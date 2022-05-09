@@ -34,7 +34,7 @@ public class Click_chekboxes_in_webpage {
 
 
 
-        if (enabled == true)
+        if (enabled)
         {
             homeChekbox.click();
         }
